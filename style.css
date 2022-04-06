@@ -1,0 +1,28 @@
+.heading{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px greenyellow;
+
+}
+
+.Note{
+font-size: 15px;
+color: darkblue;
+}
+
+.name_right{
+position: fixed;
+color: aqua;
+bottom: 0;
+width: 100%;
+background-color: lightslategray;
+line-height: 3;
+text-align: center;
+}
+
+canvas{
+border: 5px solid salmon;
+border-radius: 20px;
+box-shadow: 5px 5px 5px greenyellow;
+}
